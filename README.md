@@ -7,12 +7,10 @@ Open slides in a transparent window.  To set slides as transparent append this `
     <style>
         html {
             background-color: rgba(0,0,0,0) !important;
-         
-        }
+            }
         body {
             background-color: rgba(0,0,0,0) !important;
-         
-        }
+            }
     </style>
 </body>
 ```
