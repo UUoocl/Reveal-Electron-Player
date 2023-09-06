@@ -31,7 +31,7 @@ Add tags to send Scnee change messages to OBS.
 
 In the plugins: array add "obsSlideNavigation", and after the closing brackek add "obsSlideNavigation"
 
-![image](https://github.com/UUoocl/Reveal-Electron-Player/assets/99063397/171d7c6c-0d8e-4a46-a950-d56a95ec9d00)
+![image](https://github.com/UUoocl/Reveal-Electron-Player/assets/99063397/4da0bd8d-eb46-4a3f-ae04-ff0fefeb9ae8)
 
 ## Copy the javascript files from this repo
 
