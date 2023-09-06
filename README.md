@@ -50,6 +50,9 @@ Copy the gist link and load it in Electron Fiddle.
 
 https://gist.github.com/UUoocl/d2edd826cdf7ca4493c7359b76a1df70
 
+![image](https://github.com/UUoocl/Reveal-Electron-Player/assets/99063397/b2211546-0bcd-4e60-8ff3-37e2b2567718)
+
+
 ## Setup OBS Scenes
 In OBS enable the WebSocket Server. 
 
