@@ -43,7 +43,7 @@ In the plugins: array add "obsSlideNavigation", and after the closing brackek ad
 ## Copy the javascript files from this repo
 copy the files in this repo to the same folder where the HTML file was exported. 
 
-## Open the HTML file using the Reveal Election Player. 
+## Open the HTML file using the Reveal Electron Player. 
 Download and install the [Electron Fiddle tool](https://www.electronjs.org/fiddle) to run the Reveal player. 
 
 Copy the gist link and load it in Electron Fiddle.
